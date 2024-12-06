@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Order Form",
+    "user_name": "text",
+    "order_date": "date",
+    "lead_email": "email",
+    "phone_number": "phone"
+  },
+  {
+    "name": "Registration Form",
+    "first_name": "text",
+    "last_name": "text",
+    "email": "email",
+    "phone": "phone"
+  }
+]
